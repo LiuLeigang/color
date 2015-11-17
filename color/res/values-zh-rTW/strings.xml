@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">配色工具</string>
+    <string name="menu_settings">聯繫我</string>
+    <string name="test">測試</string>
+    <string name="alpha">α 值:</string>
+    <string name="EmailAddress">liuleigang123@gmail.com</string>
+    <string name="EmailSubject">【關於Color】</string>
+    <string name="hex">十六進制:</string>
+    <string name="displayHex">#000000</string>
+    <string name="B">藍色:</string>
+    <string name="G">綠色:</string>
+    <string name="R">紅色:</string>
+    <string name="review">評價</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Color</string>
+    <string name="menu_settings">Contact me</string>
+    <string name="test">TEST</string>
+    <string name="alpha">Alpha:</string>
+    <string name="EmailAddress">liuleigang123@gmail.com</string>
+    <string name="EmailSubject">【About Color】</string>
+    <string name="hex">Hex:</string>
+    <string name="displayHex">#00000000</string>
+    <string name="B">Blue:</string>
+    <string name="G">Green:</string>
+    <string name="R">Red:</string>
+    <string name="review">Review</string>
+</resources>
